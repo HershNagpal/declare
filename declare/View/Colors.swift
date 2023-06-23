@@ -1,0 +1,17 @@
+//
+//  Colors.swift
+//  declare
+//
+//  Created by Hersh Nagpal on 6/22/23.
+//
+
+import SwiftUI
+
+struct Colors {
+    static let yellow = Color("yellow")
+    static let orange = Color("orange")
+    static let grey = Color("grey")
+    static let darkGrey = Color("darkGrey")
+    static let red = Color("red")
+    static let green = Color("green")
+}
